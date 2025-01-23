@@ -1,2 +1,1 @@
-Master text file
-the first merge is done
+Master text file created merge conflict
