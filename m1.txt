@@ -1,1 +1,2 @@
 Master text file
+the first merge is done
